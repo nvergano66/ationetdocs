@@ -8,4 +8,5 @@
 - [Integrations (MOVED to http://developers.ationet.com)](http://developers.ationet.com))
 - [User Manuals](README_UserManuals.md)
 - [Technical documentation](README_TechnicalDocumentation.md)
+- [ATIONET Policies](README_Policies.md)
 
